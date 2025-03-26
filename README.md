@@ -3,7 +3,7 @@ This project performs sentiment analysis on customer reviews of three popular de
 
 Project Structure
 reviews.csv: The dataset containing customer reviews.
-Sentiment_Analysis_Delivery_Apps.ipynb: The Jupyter notebook containing the code for data loading, preprocessing, sentiment analysis, and visualization.
+From Rating to Reality: A Deep Dive into User Feedback on Blinkit, Zepto, and Jiomart.ipynb: The Jupyter notebook containing the code for data loading, preprocessing, sentiment analysis, and visualization.
 README.md: This file providing an overview of the project.
 Data Source
 The dataset used for this analysis is sourced from Kaggle: [Blinkit vs Zepto vs Jiomart Reviews]. It includes customer reviews, ratings, and platform information.
