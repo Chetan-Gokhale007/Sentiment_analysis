@@ -19,9 +19,3 @@ Common Themes: Common negative themes in reviews include delivery issues, servic
 Platform Comparison: Zepto receives the highest volume of reviews, but it also has a high proportion of negative reviews. Blinkit and Instamart have relatively fewer reviews but comparable sentiment distributions.
 Conclusion
 This analysis reveals valuable insights into customer sentiment towards Blinkit, Zepto, and Jiomart. The delivery platforms should focus on addressing the key concerns highlighted in the negative reviews to enhance customer satisfaction and loyalty.
-
-Future Work
-Fine-tune the sentiment analysis model for improved accuracy.
-Explore topic modeling to identify specific areas of improvement for each platform.
-Analyze the impact of customer demographics on sentiment.
-Develop a real-time sentiment monitoring system for continuous feedback analysis.
